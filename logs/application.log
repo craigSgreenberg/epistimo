@@ -1,0 +1,13 @@
+2014-09-17 22:48:57,242 - [INFO] - from play in pool-4-thread-3 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2014-09-17 22:50:22,526 - [INFO] - from application in play-internal-execution-context-1 
+ReactiveMongoPlugin starting...
+
+2014-09-17 22:50:22,584 - [INFO] - from application in play-internal-execution-context-1 
+ReactiveMongoPlugin successfully started with db 'modern-web-template'! Servers:
+		[localhost:27017]
+
+2014-09-17 22:50:22,627 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
